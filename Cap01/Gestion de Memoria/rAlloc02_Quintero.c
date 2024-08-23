@@ -1,9 +1,9 @@
-/*############################################################################################ #                                                                                            #
-#                                    Autor: Edward Andres Quintero                           # #                                                                                            #
-#                                         Fecha: 23/08/2024                                  # #                                                                                            #
-#                                    Materia: Sistemas Operativos                            # #                                                                                            #
-#                                      Tema: Gestión de memoria                              # #                                                                                            #
-#                         Tópico: Reasignación de memoria con la función rmalloc()           # #                                                                                            #
+/*############################################################################################                                                                                            
+#                                    Autor: Edward Andres Quintero                           #                                                                                            
+#                                         Fecha: 23/08/2024                                  #                                                                                            
+#                                    Materia: Sistemas Operativos                            #                                                                                            
+#                                      Tema: Gestión de memoria                              #                                                                                            
+#                         Tópico: Reasignación de memoria con la función rmalloc()           #                                                                                            
 ##############################################################################################*/
 
 /*
