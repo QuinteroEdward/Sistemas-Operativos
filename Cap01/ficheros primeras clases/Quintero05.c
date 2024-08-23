@@ -1,8 +1,10 @@
-/*Autor: E. Quintero
-Fecha: 30/07/2024
-Materia: Sistemas Operativos
-Tema: Argumentos de entrada en C
-*/
+/*############################################################################################                                                                                            
+#                                    Autor: Edward Andres Quintero                           #                                                                                            
+#                                         Fecha: 30/07/2024                                  #                                                                                            
+#                                    Materia: Sistemas Operativos                            #                                                                                            
+#                                  Tema: Argumentos de entrada en C                          #                                                                                            
+#                                                                                            #                                                                                            
+##############################################################################################*/
 /*se crea una tabla que contenga todos los tipos de datos que existen en C*/
 #include <stdio.h>
 
