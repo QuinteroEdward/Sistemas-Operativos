@@ -3,11 +3,11 @@
 #                                         Fecha: 13/08/2024                                  #                                                                                            
 #                                    Materia: Sistemas Operativos                            #                                                                                            
 #                                      Tema: Gestión de memoria                              #                                                                                            
-#                         Tópico: Reasignación de memoria con la función rmalloc()           #                                                                                            
+#                         Tópico: Reserva de memoria con la función calloc()                 #                                                                                            
 ##############################################################################################*/
 /*
 ----------------------------------------------------------------------------------------
-la función memalloc() reserva un espacio de memoria de tamaño requerido.
+la función calloc() reserva un espacio de memoria de tamaño requerido.
 los espacios de igual tamaño y memoria conigua.
 la asignación es dinamica y util para complejas estructuras de datos
 inicialmente los bloques contiguos que devuelve son inicializados en 0
