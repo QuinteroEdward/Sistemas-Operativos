@@ -1,7 +1,10 @@
-/*Autor: E. Quintero
-Fecha: 23/07/2024
-Materia: Sistemas Operativos
-Tema: Programación en C : Primera parte*/
+/*############################################################################################                                                                                            
+#                                    Autor: Edward Andres Quintero                           #                                                                                            
+#                                         Fecha: 23/07/2024                                  #                                                                                            
+#                                    Materia: Sistemas Operativos                            #                                                                                            
+#                                  Tema: programación en C primera parte                     #                                                                                            
+#                                                                                            #                                                                                            
+##############################################################################################*/
 
 #include <stdio.h>
 
