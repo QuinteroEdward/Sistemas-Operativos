@@ -1,12 +1,16 @@
+/*############################################################################################                                                                                            
+#                                    Autor: Edward Andres Quintero                           #                                                                                            
+#                                         Fecha: 13/08/2024                                  #                                                                                            
+#                                    Materia: Sistemas Operativos                            #                                                                                            
+#                                      Tema: Gestión de memoria                              #                                                                                            
+#                         Tópico: Reasignación de memoria con la función rmalloc()           #                                                                                            
+##############################################################################################*/
 /*
-Autor: E. Quintero
-Fecha: 13/08/2024
-Materia: Sistemas Operativos
-Tema: Gestión de memoria 
-Tópico: Reserva de memoria con la función memalloc().
 ----------------------------------------------------------------------------------------
 la función memalloc() reserva un espacio de memoria de tamaño requerido y 
 devuelve un puntero que señala el inicio del espacio de memoria reservado anteriormente.
+se utiliza para reservar dinámicamente un bloque de memoria. Esto significa que, a diferencia de las variables declaradas al inicio de un programa, 
+la memoria asignada con malloc() se reserva en tiempo de ejecución, cuando el programa se está ejecutando.
 */
 
 #include <stdio.h>
