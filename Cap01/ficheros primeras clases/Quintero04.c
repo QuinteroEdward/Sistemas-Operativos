@@ -1,9 +1,10 @@
-/*Autor: E. Quintero
-Fecha: 30/07/2024
-Materia: Sistemas Operativos
-Tema: Argumentos de entrada en C
-
-*/
+/*############################################################################################                                                                                            
+#                                    Autor: Edward Andres Quintero                           #                                                                                            
+#                                         Fecha: 30/07/2024                                  #                                                                                            
+#                                    Materia: Sistemas Operativos                            #                                                                                            
+#                                  Tema: Argumentos de entrada en C                          #                                                                                            
+#                                                                                            #                                                                                            
+##############################################################################################*/
 /*Al inicio debe enviar el programa con el valor de la edad*/
 /* Se presentara una serie de preguntas que el usuario debe responder */
 
