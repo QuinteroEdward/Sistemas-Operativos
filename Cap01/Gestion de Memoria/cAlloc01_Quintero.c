@@ -20,8 +20,8 @@ devuelve un puntero que señala el inicio del espacio de memoria reservado anter
 int main(){
 /* se declaran las variables y punteros necesarios*/
 int *p1 = calloc(4,sizeof(int)); // Asignación de vector de 4 tamaño int 
-int *puntero = calloc(10,sizeof(int)); // Bloque de memoria de 15 int
-int *p3 = calloc(5,sizeof*p3); // Bloque de memoria de 15 int
+int *puntero = calloc(10,sizeof(int)); // Bloque de memoria de 10 int
+int *p3 = calloc(5,sizeof*p3); // Bloque de memoria de 5
 
 /*Bucle para llenar los espacios Primer bloque reservado (puntero)*/
   printf("construcción y calculo de la secuencia de los primeros 10 terminos \n");
