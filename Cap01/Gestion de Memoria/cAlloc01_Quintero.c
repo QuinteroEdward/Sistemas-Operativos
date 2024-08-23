@@ -1,9 +1,11 @@
+/*############################################################################################                                                                                            
+#                                    Autor: Edward Andres Quintero                           #                                                                                            
+#                                         Fecha: 13/08/2024                                  #                                                                                            
+#                                    Materia: Sistemas Operativos                            #                                                                                            
+#                                      Tema: Gestión de memoria                              #                                                                                            
+#                         Tópico: Reasignación de memoria con la función rmalloc()           #                                                                                            
+##############################################################################################*/
 /*
-Autor: E. Quintero
-Fecha: 13/08/2024
-Materia: Sistemas Operativos
-Tema: Gestión de memoria 
-Tópico: Reserva de memoria con la función memalloc().
 ----------------------------------------------------------------------------------------
 la función memalloc() reserva un espacio de memoria de tamaño requerido.
 los espacios de igual tamaño y memoria conigua.
