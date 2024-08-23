@@ -1,7 +1,11 @@
-/*Autor: E. Quintero
-Fecha: 23/07/2024
-Materia: Sistemas Operativos
-Tema: Programación en C : Primera parte
+/*############################################################################################                                                                                            
+#                                    Autor: Edward Andres Quintero                           #                                                                                            
+#                                         Fecha: 23/07/2024                                  #                                                                                            
+#                                    Materia: Sistemas Operativos                            #                                                                                            
+#                                  Tema: programación en C primera parte                     #                                                                                            
+#                                                                                            #                                                                                            
+##############################################################################################*/
+/*
 Requerimientos:
     -Función que sume 2 enteros
     -Función que calcule el area de una Circunferencia
