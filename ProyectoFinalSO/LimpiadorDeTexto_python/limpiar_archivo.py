@@ -1,3 +1,11 @@
+/*##################################################################################################
+#                            Autores: Mateo Maldonado, Edward Quintero                             #
+#                                         Fecha: 11/11/2024                                        #
+#                                    Materia: Sistemas Operativos                                  #
+#                                       Tema: Proyecto Final                                       #
+#                                        Limpiador de Texto                                        #
+####################################################################################################*/
+
 # Este código limpia el contenido de un archivo de texto, eliminando todos los caracteres no ASCII.
 # Esto puede ser útil cuando se trabaja con archivos que pueden contener caracteres especiales
 # o de otro idioma y se necesita tener solo caracteres estándar en inglés.
