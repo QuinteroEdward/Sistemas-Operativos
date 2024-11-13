@@ -1,0 +1,32 @@
+
+A:El museo nacional organiza una nueva exhibicion de fotografia contemporanea.
+E:Reconocido actor protagonizara una nueva serie de ciencia ficcion.
+C:Un equipo de cientificos descubre un metodo para reducir la contaminacion de plasticos.
+P:El congreso debate una reforma importante en el sistema de pensiones.
+S:Incendio forestal amenaza varias comunidades rurales en la region norte.
+A:El festival de danza moderna celebra su edicion anual con artistas internacionales.
+E:Un famoso grupo musical anuncia su regreso a los escenarios tras cinco anos.
+C:Nueva investigacion revela detalles sobre el comportamiento de las abejas.
+P:El gobierno lanza un plan de ayuda para pequenos empresarios.
+S:Rescatan a varios animales afectados por el derrumbe en la montaa.
+A:La galeria central presenta una exposicion de arte abstracto.
+E:El cantante lanzara un documental sobre su ultima gira mundial.
+C:Expertos estudian el impacto de los microplasticos en la fauna marina.
+P:Se implementara un nuevo sistema de transporte publico en la capital.
+S:Varios heridos en accidente de transito en la autopista sur.
+A:El evento de arte callejero transforma las calles del centro.
+E:Nueva pelicula de aventuras conquista la taquilla internacional.
+C:Encuentran una nueva especie de planta en la selva tropical.
+P:Se aprueba un proyecto para construir parques en zonas urbanas.
+S:Autoridades investigan robo en una tienda de tecnologia.
+A:El teatro local presenta una obra inspirada en la literatura clasica.
+E:El lanzamiento del album mas esperado rompe records de reproduccion.
+C:Desarrollan una tecnica avanzada para el reciclaje de materiales.
+P:Nuevas politicas de vivienda buscan reducir el deficit habitacional.
+S:Rescatan a excursionistas atrapados en una tormenta de nieve.
+A:Exhibicion de arte digital abre sus puertas en el centro cultural.
+E:Famoso comediante se presenta en un show especial en la capital.
+C:Cientificos avanzan en la investigacion de una vacuna contra enfermedades raras.
+P:Campana de salud publica promueve la vacunacion en zonas rurales.
+S:Evacuan edificio por fuga de gas en el sector financiero.
+A:La biblioteca central organiza un ciclo de cine independiente.
