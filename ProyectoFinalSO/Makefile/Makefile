@@ -3,7 +3,7 @@
 #                                         Fecha: 11/11/2024                                        #
 #                                    Materia: Sistemas Operativos                                  #
 #                                       Tema: Proyecto Final                                       #
-#                         Tópico: Sistema de Noticias publicador/Suscriptor                        #
+#                         Tópico: Make - Sistema de Noticias publicador/Suscriptor                 #
 ####################################################################################################*/
 
 # Este Makefile automatiza el proceso de compilación de un sistema de comunicación
